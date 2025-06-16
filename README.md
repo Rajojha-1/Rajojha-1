@@ -40,13 +40,3 @@
 ---
 
 ⭐ *Thanks for visiting my profile!*
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## 📈 GitHub Stats
-
-![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajojha-1&show_icons=true&theme=radical)
-
